@@ -1,0 +1,4 @@
+#Fri Feb 10 09:23:53 CST 2017
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/ueditor1_4_3-utf8-jsp,WebRoot/js/jquery/jquery-1.10.2.min.js,WebRoot/js/ueditor,WebRoot/WEB-INF/jsp/nsfw/home/frame.jsp
+validator.Unchecked=
